@@ -13,6 +13,13 @@
             "firstname": "Carolina",
             "username": "carosoto",
             "password": "81dc9bdb52d04dc20036dbd8313ed055"
+        },
+        {
+            "id": 3,
+            "lastname": "Estrada",
+            "firstname": "Caro",
+            "username": "estrada",
+            "password": "81dc9bdb52d04dc20036dbd8313ed055"
         }
     ]
 }
